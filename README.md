@@ -1,6 +1,6 @@
 # Table of Contents
 
-This Repository contains multiple projects w.r.t Machine Learning,Django and R/Python.
+This Repository contains multiple projects related to Machine Learning,Django and R/Python.
 
 * Machine Learning 
 * Python with Django
@@ -13,20 +13,20 @@ This Repository contains multiple projects w.r.t Machine Learning,Django and R/P
 
 <h1>Machine Learning</h1>
 
-## Projects
+<h3>Projects</h3>
 * Employee Attrition Prediction
 * Loan Aproval Prediction
 * No Show Appointment Prediction
 
-## Machine Learning Life Cycle
+<h3>Machine Learning Life Cycle</h3>
 
-## Feature Engineering
+<h3>Feature Engineering</h3>
 `Outliers`<br>
 `Multi Colinear`<br>
 `Normalization`<br>
 `Regularization`<br>
 
-## Algorithm Used
+<h3>Algorithm Used</h3>
 `Linear Regression`<br>
 `Logistic Regression`<br>
 `Decision Tree`<br>
