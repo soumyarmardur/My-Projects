@@ -11,7 +11,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 <b>Tools Used:</b> Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
 
 
-## Machine Learning
+## 1) Machine Learning
 
 ### Projects
 * Employee Attrition Prediction
@@ -35,7 +35,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 `Random Forest`<br>
 `Naive Bayes`<br>
 
-## Python with Django
+## 2) Python with Django
 
 The Repository contains models.py,forms.py,view.py and other scripts related to django
 
