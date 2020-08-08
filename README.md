@@ -55,11 +55,11 @@ django-admin startapp user
 
 <b>Step5:</b> 
 Understanding different scripts in Django<br>
-1)URL.py --> URL Configuration script<br>
-2)form.py --> Form/Attribute creation scripts<br>
-3)models.py --> script which creates database schemas(class name would be considered as table name)<br>
-4)views.py --> script which takes in web request and throws web response(logic is written here to save the form and send the respective attributes to DB)<br>
-5)Settings.py --> script which contains default settings. we can add configurations like custom password validation and "app" name in here<br>
+`URL.py` --> URL Configuration script<br>
+`form.py` --> Form/Attribute creation scripts<br>
+`models.py` --> script which creates database schemas(class name would be considered as table name)<br>
+`views.py` --> script which takes in web request and throws web response(logic is written here to save the form and send the respective attributes to DB)<br>
+`Settings.py` --> script which contains default settings. we can add configurations like custom password validation and "app" name in here<br>
 
 <b>Step6:</b> Executing the project
 1) python manage.py runserver<br>
