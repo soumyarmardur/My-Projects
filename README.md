@@ -53,19 +53,20 @@ python manage.py runserver
 <b>Step4:</b> Create the app as per requirments:
 django-admin startapp user
 
-<b>Step5:</b> Understanding different scripts in Django
-i)URL.py --> URL Configuration script
-ii)form.py --> Form/Attribute creation scripts
-iii)models.py --> script which creates database schemas(class name would be considered as table name)
-iv)views.py --> script which takes in web request and throws web response(logic is written here to save the form and send the respective attributes to DB)
-v)Settings.py --> script which contains default settings. we can add configurations like custom password validation and "app" name in here
+<b>Step5:</b> 
+Understanding different scripts in Django<br>
+i)URL.py --> URL Configuration script<br>
+ii)form.py --> Form/Attribute creation scripts<br>
+iii)models.py --> script which creates database schemas(class name would be considered as table name)<br>
+iv)views.py --> script which takes in web request and throws web response(logic is written here to save the form and send the respective attributes to DB)<br>
+v)Settings.py --> script which contains default settings. we can add configurations like custom password validation and "app" name in here<br>
 
 <b>Step6:</b> Executing the project
-1) python manage.py runserver
-2) go to chrome and type http:127.0.0.1/ 
-3) register using your username(details like username, password, confirm password and emails should be entered)
-4) login using your username(details like username, password should be entered)
-5) create profile after login(details like firstname, lastname, contactno,email,.... should be entered)
+1) python manage.py runserver<br>
+2) go to chrome and type http:127.0.0.1/ <br>
+3) register using your username(details like username, password, confirm password and emails should be entered) <br>
+4) login using your username(details like username, password should be entered) <br>
+5) create profile after login(details like firstname, lastname, contactno,email,.... should be entered) <br>
 
 <b>Step7:</b> To generate SQL commands to create the table
 python manage.py makemigrations
