@@ -11,29 +11,31 @@ This Repository contains multiple projects related to Machine Learning,Django an
 <b>Tools Used:</b> Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
 
 
-<h1>Machine Learning</h1>
+## Machine Learning
 
-<h3>Projects</h3>
+### Projects
 * Employee Attrition Prediction
 * Loan Aproval Prediction
 * No Show Appointment Prediction
 
-<h3>Machine Learning Life Cycle</h3>
+### Machine Learning Life Cycle
 
-<h3>Feature Engineering</h3>
+
+
+### Feature Engineering
 `Outliers`<br>
 `Multi Colinear`<br>
 `Normalization`<br>
 `Regularization`<br>
 
-<h3>Algorithm Used</h3>
+### Algorithm Used
 `Linear Regression`<br>
 `Logistic Regression`<br>
 `Decision Tree`<br>
 `Random Forest`<br>
 `Naive Bayes`<br>
 
-<h1> Python with Django </h1>
+## Python with Django
 
 The Repository contains models.py,forms.py,view.py and other scripts related to django
 
