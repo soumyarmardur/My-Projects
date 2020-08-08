@@ -8,5 +8,5 @@ This Repository contains multiple projects w.r.t Machine Learning,Django and R/P
 * Sample R Scripts
 * Sample Python Scripts
 
-Tools Used: Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
+<b>Tools Used:</b> Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
 
