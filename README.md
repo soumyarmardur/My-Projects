@@ -50,22 +50,22 @@ Installation  Steps:
 * django-admin startapp user
 ```
 
-<b>Step5:</b> 
+<b>Understanding different scripts in Django</b> 
 ```
-Understanding different scripts in Django<br>
-`URL.py` --> URL Configuration script<br>
-`form.py` --> Form/Attribute creation scripts<br>
-`models.py` --> script which creates database schemas(class name would be considered as table name)<br>
-`views.py` --> script which takes in web request and throws web response(logic is written here to save the form and send the respective attributes to DB)<br>
-`Settings.py` --> script which contains default settings. we can add configurations like custom password validation and "app" name in here<br>
+* URL.py --> URL Configuration script<br>
+* form.py --> Form/Attribute creation scripts<br>
+* models.py --> script which creates database schemas(class name would be considered as table name)<br>
+* views.py --> script which takes in web request and throws web response(logic is written here to save the form and send the respective attributes to DB)<br>
+* Settings.py --> script which contains default settings. we can add configurations like custom password validation and "app" name in here<br>
 ```
-<b>Step6:</b> Executing the project
+Evaluation:
+```
 1) python manage.py runserver<br>
 2) go to chrome and type http:127.0.0.1/ <br>
 3) register using your username(details like username, password, confirm password and emails should be entered) <br>
 4) login using your username(details like username, password should be entered) <br>
 5) create profile after login(details like firstname, lastname, contactno,email,.... should be entered) <br>
-
+```
 <b>Step7:</b> To generate SQL commands to create the table
 python manage.py makemigrations
 
