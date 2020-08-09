@@ -17,8 +17,8 @@ This Repository contains multiple projects related to Machine Learning,Django an
 ### Projects
 Problem Statement | Description
 ------------ | -------------
-Employee Attrition Prediction | Content from cell 2
-Loan Aproval Prediction | Content in the second column
+Employee Attrition Prediction | This project is regarding retaining outstanding employees. You can analyze all relevant employee data and develop focused employee retention programs.
+Loan Aproval Prediction | This project is regarding automating the loan eligibility process based on customer detail provided using ML.
 No Show Appointment Prediction | Content in the second column
 No Show Appointment Prediction | Content in the second column
 
