@@ -2,8 +2,6 @@
 
 This Repository contains multiple projects related to Machine Learning,Django and R/Python.
 
-<b>Tools Used:</b> Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
-
 # Table of Contents
 1. [Machine Learning](#machine-learning)
 2. [Python with Django](#python-with-django)
@@ -11,6 +9,7 @@ This Repository contains multiple projects related to Machine Learning,Django an
 4. [Sample R Scripts](#sample-r-scripts)
 5. [Sample Python Scripts](#sample-python-scripts)
 
+<b>Tools Used:</b> Anaconda3, Microsoft SQL Server, R Studio, PyCharm, Postman
 
 ## Machine Learning
 
@@ -19,8 +18,8 @@ Problem Statement | Description
 ------------ | -------------
 Employee Attrition Prediction | This project is regarding retaining outstanding employees. You can analyze all relevant employee data and develop focused employee retention programs.
 Loan Aproval Prediction | This project is regarding automating the loan eligibility process based on customer detail provided using ML.
-No Show Appointment Prediction | Content in the second column
-No Show Appointment Prediction | Content in the second column
+
+working on other projects such as `No Show Appointment Prediction` and `Big Market Sales Price Prediction`
 
 ### Feature Engineering
 `Outliers`<br>
@@ -40,7 +39,8 @@ No Show Appointment Prediction | Content in the second column
 
 Please find the steps to implement the Django Project
 
-Installation  Steps:
+* Installation  Steps:
+
 ```
 * pip install Django
 * django-admin startproject project
@@ -48,7 +48,8 @@ Installation  Steps:
 * django-admin startapp user
 ```
 
-Understanding different scripts in Django
+* Understanding different scripts in Django
+
 ```
 * URL.py --> URL Configuration script<br>
 * form.py --> Form/Attribute creation scripts<br>
@@ -56,7 +57,9 @@ Understanding different scripts in Django
 * views.py --> script which takes in web request and throws web response(logic is written here to save the form and send the respective attributes to DB)<br>
 * Settings.py --> script which contains default settings. we can add configurations like custom password validation and "app" name in here<br>
 ```
-Evaluation:
+
+* Evaluation:
+
 ```
 * python manage.py runserver<br>
 * go to chrome and type http:127.0.0.1/ <br>
@@ -69,5 +72,12 @@ Evaluation:
 ```
 
 ## Python with Sqlite
+In-Progress ...
+
 ## Sample R Scripts
+In-Progress ...
+
 ## Sample Python Scripts
+In-Progress ...
+
+
