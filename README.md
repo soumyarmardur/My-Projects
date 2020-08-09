@@ -73,17 +73,3 @@ Evaluation:
 ## Python with Sqlite
 ## Sample R Scripts
 ## Sample Python Scripts
-
-### Example 1 Heading
-* Machine Learning 
-* Python with Django
-* Python with Sqlite
-* Sample R Scripts
-* Sample Python Scripts
-
-
-
-## 2) Python with Django
-
-The Repository contains models.py,forms.py,view.py and other scripts related to django
-
