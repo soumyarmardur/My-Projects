@@ -42,17 +42,13 @@ This Repository contains multiple projects related to Machine Learning,Django an
 
 Please find the steps to implement the Django Project
 
-<b>Step1:</b> Install Django
+Installation  Steps:
+```
 pip install Django
-
-<b>Step2:</b> Import Django Default Project
 django-admin startproject project
-
-<b>Step3:</b> Run the Project
 python manage.py runserver
-
-<b>Step4:</b> Create the app as per requirments:
 django-admin startapp user
+```
 
 <b>Step5:</b> 
 ```
