@@ -1,4 +1,4 @@
-# Table of Contents
+
 
 This Repository contains multiple projects related to Machine Learning,Django and R/Python.
 
