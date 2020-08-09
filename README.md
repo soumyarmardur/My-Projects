@@ -15,14 +15,12 @@ This Repository contains multiple projects related to Machine Learning,Django an
 ## Machine Learning
 
 ### Projects
-* Employee Attrition Prediction
-  Description: 
-  
-* Loan Aproval Prediction
-  Description:
-  
-* No Show Appointment Prediction
-  Description:
+Problem Statement | Description
+------------ | -------------
+Employee Attrition Prediction | Content from cell 2
+Loan Aproval Prediction | Content in the second column
+No Show Appointment Prediction | Content in the second column
+No Show Appointment Prediction | Content in the second column
 
 ### Feature Engineering
 `Outliers`<br>
