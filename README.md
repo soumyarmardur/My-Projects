@@ -44,10 +44,10 @@ Please find the steps to implement the Django Project
 
 Installation  Steps:
 ```
-pip install Django
-django-admin startproject project
-python manage.py runserver
-django-admin startapp user
+* pip install Django
+* django-admin startproject project
+* python manage.py runserver
+* django-admin startapp user
 ```
 
 <b>Step5:</b> 
