@@ -50,7 +50,7 @@ Installation  Steps:
 * django-admin startapp user
 ```
 
-<b>Understanding different scripts in Django</b> 
+Understanding different scripts in Django
 ```
 * URL.py --> URL Configuration script<br>
 * form.py --> Form/Attribute creation scripts<br>
@@ -60,21 +60,15 @@ Installation  Steps:
 ```
 Evaluation:
 ```
-1) python manage.py runserver<br>
-2) go to chrome and type http:127.0.0.1/ <br>
-3) register using your username(details like username, password, confirm password and emails should be entered) <br>
-4) login using your username(details like username, password should be entered) <br>
-5) create profile after login(details like firstname, lastname, contactno,email,.... should be entered) <br>
+* python manage.py runserver<br>
+* go to chrome and type http:127.0.0.1/ <br>
+* register using your username(details like username, password, confirm password and emails should be entered) <br>
+* login using your username(details like username, password should be entered) <br>
+* create profile after login(details like firstname, lastname, contactno,email,.... should be entered) <br>
+* To generate SQL commands to create the table --> python manage.py makemigrations
+* To create the table in database  --> python manage.py migrate
+* check the SQLLite DB Browser to view details of user profile
 ```
-<b>Step7:</b> To generate SQL commands to create the table
-python manage.py makemigrations
-
-<b>Step8:</b> To create the table in database
-python manage.py migrate
-
-<b>Step9:</b> check the SQLLite DB Browser to view details of user profile
-
-
 
 ## Python with Sqlite
 ## Sample R Scripts
