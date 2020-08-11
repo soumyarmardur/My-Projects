@@ -72,12 +72,18 @@ Please find the steps to implement the Django Project
 ```
 
 ## Python with Sqlite
-In-Progress ...
+```
+find the sample python scripts which connect to the SQL Server.
+```
 
 ## Sample R Scripts
-In-Progress ...
+```
+find the sample R scripts for Machine Learning Algorithm such as Linear Regression,Logistic Regression,Decision Tree,Random Forest.
+```
 
 ## Sample Python Scripts
-In-Progress ...
+```
+sample python scripts 
+```
 
 
